@@ -138,7 +138,7 @@
 <dimension x1="25.07" y1="34.28" x2="25.07" y2="0" x3="-1.27" y3="17.14" textsize="1.778" layer="47"/>
 <text x="10.795" y="33.655" size="1.778" layer="122" font="vector" rot="SMR270">MiniServo Master</text>
 <text x="12.065" y="11.43" size="1.016" layer="122" font="fixed" rot="SMR270">v1.0</text>
-<text x="19.05" y="1.27" size="0.6096" layer="16" rot="SMR0">StickLogger (GNU GPL v3) | © 2015
+<text x="19.05" y="1.27" size="0.6096" layer="122" rot="SMR0">StickLogger (GNU GPL v3) | © 2015
 Manoj Prajwal Bhattaram |
 www.github.com/Marzogh/ServoMaster</text>
 <text x="21.8694" y="5.8674" size="0.6096" layer="121" rot="R90">BAT</text>
